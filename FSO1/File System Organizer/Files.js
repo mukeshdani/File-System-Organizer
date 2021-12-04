@@ -16,9 +16,9 @@ let cammand = inputArr[2]
 switch(cammand){
 
 
-    case 'tree': treeFn()
+    case 'Tree': treeFn()
     break ; 
-    case 'organizse': organizeFn()
+    case 'Organizse': organizeFn()
     break;
     case 'Help': HelpFn()
     break;
@@ -37,7 +37,12 @@ function treeFn(){
 }
 
 function HelpFn(){
-    console.log("HELP FUNCTION IS IMPLEMENTED ")
+    console.log(`
+           LIST OF ALL THE CAMMANDS :
+           1)Tree Cammand -node Files.js tree <dir Name>
+           2)Organizse cammand -node Files.js Organizse <dir Name>
+           3)Help -node cammand -node Files.js Help 
+    `)
 }
 
 
