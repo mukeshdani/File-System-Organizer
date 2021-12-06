@@ -41,7 +41,7 @@ let types = {
 switch(cammand){
 
 
-    case 'Tree': treeFn()
+    case 'Tree': treeFn(inputArr[1])
     break ; 
     case 'Organizse': organizeFn(inputArr[1])
     break;

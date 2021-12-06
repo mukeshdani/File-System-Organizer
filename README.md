@@ -38,9 +38,14 @@
  💼 if you have any doubt? do reach, [email](mailto:mukeshdani00@gmail.com) :)
 
 
-# Before Organize the file
+# Before  Organize the file
 <img align="center" alt="GIF" src="images/1.png" width="100%" height="320" />
 
 # After Organize the file
 <img align="center" alt="GIF" src="images/2.png" width="100%" height="320" />
 <img align="center" alt="GIF" src="images/3.png" width="100%" height="320" />
+
+
+# After using Tree cammand 
+
+<img align="center" alt="GIF" src="images/4.png" width="100%" height="320" />
